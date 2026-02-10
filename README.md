@@ -1,6 +1,8 @@
 # 📚 ReadShelf – Book Management App
 
 ReadShelf is a personal book management application built using React, Redux Toolkit, Redux Persist, and Tailwind CSS. It allows users to manage their reading list with full CRUD functionality, favorites, filtering, pagination, and persistent storage.
+
+
 Live:https://vercel.com/chinduttns-projects/read-shelf
 
 ---
